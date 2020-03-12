@@ -1,5 +1,6 @@
 package oop.inheritance;
 
-public interface IResident {
+public interface IResident
+{
     float getTaxDiscountRate();
 }

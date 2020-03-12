@@ -2,7 +2,8 @@ package oop.inheritance;
 
 import java.util.List;
 
-public class TaxesController implements IResident {
+public class TaxesController implements IResident
+{
 
     public int estimateTaxIncome(List<IResident> residents)
     {
